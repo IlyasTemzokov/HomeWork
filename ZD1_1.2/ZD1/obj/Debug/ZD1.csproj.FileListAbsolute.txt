@@ -1,0 +1,87 @@
+F:\BDSM\БД\БД УП\ZD1\ZD1\bin\Debug\ZD1.exe.config
+F:\BDSM\БД\БД УП\ZD1\ZD1\bin\Debug\ZD1.exe
+F:\BDSM\БД\БД УП\ZD1\ZD1\bin\Debug\ZD1.pdb
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\App.g.cs
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1_MarkupCompile.cache
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1_MarkupCompile.lref
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.g.resources
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.csproj.GenerateResource.cache
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.csproj.CoreCompileInputs.cache
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.exe
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.pdb
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\Dictionary1.baml
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\LoginWindow.g.cs
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\UserWindow.g.cs
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\App.baml
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\LoginWindow.baml
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\UserWindow.baml
+F:\BDSM\БД\БД УП\ZD1\ZD1\obj\Debug\ZD1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\ZD1.csprojAssemblyReference.cache
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\Dictionary1.baml
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\LoginWindow.g.cs
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\UserWindow.g.cs
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\App.g.cs
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\ZD1_MarkupCompile.cache
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\ZD1_MarkupCompile.lref
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\ZD1.exe
+C:\Users\ПК\Desktop\ZD1_1.1\ZD1\obj\Debug\ZD1.pdb
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\Dictionary1.baml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\LoginWindow.g.cs
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\SaleCreate.g.cs
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\UserWindow.g.cs
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\App.g.cs
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1_MarkupCompile.cache
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1_MarkupCompile.lref
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.exe
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.pdb
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\ZD1.exe.config
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\ZD1.exe
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\ZD1.pdb
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\EntityFramework.dll
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\EntityFramework.SqlServer.dll
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\EntityFramework.xml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\EntityFramework.SqlServer.xml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\bin\Debug\ru\EntityFramework.resources.dll
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\App.baml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\LoginWindow.baml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\SaleCreate.baml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\UserWindow.baml
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.g.resources
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.GenerateResource.cache
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.CoreCompileInputs.cache
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.CopyComplete
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\ZD1.csprojAssemblyReference.cache
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\Pages\TablePage.g.cs
+F:\BDSM\БД\БД УП\ZD1_1.2\ZD1\obj\Debug\Pages\TablePage.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\ZD1.exe.config
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\ZD1.exe
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\ZD1.pdb
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\EntityFramework.dll
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\EntityFramework.xml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.csprojAssemblyReference.cache
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\Dictionary1.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\LoginWindow.g.cs
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\Pages\TablePage.g.cs
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\SaleCreate.g.cs
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\UserWindow.g.cs
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\App.g.cs
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1_MarkupCompile.cache
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1_MarkupCompile.lref
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\App.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\LoginWindow.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\Pages\TablePage.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\SaleCreate.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\UserWindow.baml
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.g.resources
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.Properties.Resources.resources
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.GenerateResource.cache
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.CoreCompileInputs.cache
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.csproj.CopyComplete
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.exe
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\ZD1.pdb
+C:\Users\Hocku\Desktop\Новая папка\ZD1_1.2\ZD1\obj\Debug\GeneratedInternalTypeHelper.g.cs
